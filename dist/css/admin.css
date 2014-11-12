@@ -1,0 +1,12 @@
+.login {
+  float: left;
+  width: 20%;
+  margin: 170px 40%;
+  padding: 10px;
+  border: solid 1px #333;
+  border-radius: 7px;
+}
+.spasi {
+  width: 100%;
+  margin: 10px 0;
+}
