@@ -3,7 +3,7 @@
 [**Banten CMS**](http://www.banten-it.com) adalah CMS yang dikhususkan untuk blog publishing yang sangat ringan dan cocok untuk membangun blog simple minimalis untuk catatan. Banten CMS ini dibangun dengan menggunakan bahasa pemrograman PHP dan database MySQL. Banten CMS ini dibuat dan didukung oleh [Banten IT Solutions](http://www.banten-it.com).
 
 ## [Installasi Banten CMS](http://www.banten-it.com)
-
+* [Database Banten CMS](https://gist.github.com/nurulimamnotes/9898440135554a0a8530)
 * [Pengenalan Class, Property & Method](http://www.nurulimam.com/2014/10/mengenal-class-property-dan-method.html)
 * [Pengenalan Constructor Dan Desctructor](http://www.nurulimam.com/2014/10/mengenal-constructors-destructors.html)
 * [Aksesbilitas Property & Method Dengan Encapsulation](http://www.nurulimam.com/2014/10/aksesbilitas-property-method-dengan-encapsulation.html)

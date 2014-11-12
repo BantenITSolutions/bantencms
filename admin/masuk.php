@@ -18,7 +18,7 @@ $user->login($username);
 if ($user->password == $password) {
   $_SESSION['username'] = $username;
   $_SESSION['password'] = $password;
-  header('location:admin.php?pengaturan=beranda');
+  header('location:banten-admin.php?pengaturan=beranda');
 } else {
   echo '
   <script type="text/javascript">

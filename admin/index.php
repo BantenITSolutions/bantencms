@@ -18,7 +18,7 @@
           <label for="password">Password</label>
           <input type="password" name="password" class="width-100" placeholder="Password">
           <div class="spasi"></div>
-          <input class="btn btn-outline right" type="submit" value="Masuk">
+          <input class="btn btn-outline right spasi" type="submit" value="Masuk">
         </form>
       </div>
     </div>
