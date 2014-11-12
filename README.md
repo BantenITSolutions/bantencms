@@ -11,4 +11,4 @@
 * [Membuat Operasi Bilangan Sederhana Dengan PHP OOP](http://www.nurulimam.com/2014/10/latihan-membuat-operasi-bilangan-dengan-oop.html)
 * [Anonymous Function / Lambda & Closure](http://www.nurulimam.com/2014/10/php5-anonymous-function-lambda-closure.html)
 
-Banten CMS ini bersifat Open Source dan bebas untuk berkontribusi membangun CMS ini. Jika anda web developer, web designer yang ingin berkontribusi, silahkan fork [Source Code Banten CMS](http://www.github.com).
+Banten CMS ini bersifat Open Source dan bebas untuk berkontribusi membangun CMS ini. Jika anda web developer, web designer yang ingin berkontribusi, silahkan fork [Source Code Banten CMS](https://github.com/BantenITSolutions/bantencms/fork).
